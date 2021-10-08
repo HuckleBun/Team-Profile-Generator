@@ -29,5 +29,5 @@ Micah Duehring (hucklebun)
 Four tests were run using Jest from npm to ensure that each of the classes provided in this project functioned properly.
 
 ## Have questions? Connect with me.
-GitHub: github.com/hucklebun
+GitHub: github.com/hucklebun<br>
 Email: micah@theduehrings.com    
