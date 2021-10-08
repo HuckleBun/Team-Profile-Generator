@@ -1,0 +1,62 @@
+.team-heading {
+    background: rgb(44, 44, 37);
+    color: white;
+}
+
+.manager-color {
+    background-color: rgb(224, 75, 75);
+    color: white;
+}
+
+.engineer-color {
+    background-color: rgb(71, 143, 49);
+    color: white;
+}
+
+.intern-color {
+    background-color: rgb(69, 67, 184);
+    color: white;
+}
+
+.manager-card-bg {
+    background-color: rgb(228, 200, 200);
+}
+
+.engineer-card-bg {
+    background-color: rgb(97, 128, 87);
+}
+
+.intern-card-bg {
+    background-color: rgb(110, 109, 170);
+}
+
+.team-area {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.employee-card {
+    margin: 1em;
+    max-width: 280px;
+    width: 90%;
+    min-height: 22rem;
+    background-color: #007bff;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 4px 4px 8px rgba(0,0,0,0.7);
+    border: none;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #F6F7F8;
+}
+
+.list-group-item {
+    color: #000000;
+    text-decoration: none;
+}
